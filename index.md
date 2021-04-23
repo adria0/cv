@@ -4,12 +4,13 @@ layout: default
 
 **Now**
 
-- Core [Openethereum](https://github.com/openethereum) developer for [Gnosis](https://gnosis.io)
-- Lecturer on secure smartcontract development at [Master's degree in Blockchain Technologies](https://www.talent.upc.edu/ing/estudis/formacio/curs/207700/master-degree-blockchain-technologies/) 
+- Security engineer at [Vocdoni.io](https://www.vocdoni.io)
+- Developer Lecturer on secure smartcontract development at [Master's degree in Blockchain Technologies](https://www.talent.upc.edu/ing/estudis/formacio/curs/207700/master-degree-blockchain-technologies/) 
 - Organizer of the [Barcelona Ethereum Developers Meetup](https://www.meetup.com/es-ES/ethereumbcn/)
 
 **Decentralized security-related-works**
 
+- Core [Openethereum](https://github.com/openethereum) developer for [Gnosis](https://gnosis.io)
 - Member of the [WHG](https://www.reddit.com/r/ethereum/comments/6povrc/the_whg_has_returned_95_of_the_funds_and_now_hold/)
 - Circuits & Smartcontract code reviews for the [Hermez](https://hermez.io/) Rollup
 - Core developer in [iden3](https://iden3.io): solidity, go, rust, snarks
