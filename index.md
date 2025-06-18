@@ -4,8 +4,7 @@ layout: default
 
 **Now**
 
-- Lecturer on secure smartcontract development at [Master's degree in Blockchain Technologies](https://www.talent.upc.edu/ing/estudis/formacio/curs/207700/master-degree-blockchain-technologies/) 
-- Organizer of the [Barcelona Ethereum Developers Meetup](https://www.meetup.com/es-ES/ethereumbcn/)
+- Organizer of the Barcelona Ethereum Developers Meetup
 - ZK Research engineer in [Ethereum Foundation](https://ethereum.org/en/foundation/) working in the [zkEVM](https://github.com/appliedzkp/zkevm-circuits)
 
 **Decentralized security-related-works**
