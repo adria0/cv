@@ -5,7 +5,7 @@ layout: default
 **Now**
 
 - Organizer of the Barcelona Ethereum Developers Meetup
-- ZK Research engineer in [Ethereum Foundation](https://ethereum.org/en/foundation/) working in the [zkEVM](https://github.com/appliedzkp/zkevm-circuits)
+- ZK Research engineer in [Ethereum Foundation](https://ethereum.org/en/foundation/) working in the [zkEVM](https://github.com/appliedzkp/zkevm-circuits), [Halo2](https://github.com/privacy-ethereum/halo2) and [Post](https://ethresear.ch/t/post-quantum-txs-in-the-verge/21763) [-quantum](https://pse.dev/blog/towards_a_quantum-safe_p2p_for_ethereum)  ethereum explorations 
 
 **Decentralized security-related-works**
 
