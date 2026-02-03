@@ -4,7 +4,7 @@ layout: default
 
 **Now**
 
-- Organizer of the Barcelona Ethereum Developers Meetup
+- Organizer of the [Barcelona Ethereum Engeenering](https://ethbcn.dev/) Meetup
 
 **Decentralized security-related-works**
 
