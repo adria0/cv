@@ -39,7 +39,7 @@ layout: default
 **Centralized security-related works**
 
 - Security design of an IoT smart lock.
-- Architecture & dev of CC EAL4+ Virtual smartcard for Qualified signatures at C3PO.
+- Architecture & dev of CC EAL4+ Virtual smartcard for Qualified signatures at (ANCERT) Agencia Notarial de Certificación.
 - Development of cryptographic key management middleware on embeddable microcontrollers and cryptographic drivers (win/linux) at C3PO.
 - Secure mobile bank transaction authorization App for CaixaBank.
 - Technical product design for a Forensics-readiness tool for CaixaBank.
