@@ -40,8 +40,8 @@ layout: default
 - Security design of an IoT smart lock.
 - Architecture & dev of CC EAL4+ Virtual smartcard for Qualified signatures at C3PO.
 - Development of cryptographic key management middleware on embeddable microcontrollers and cryptographic drivers (win/linux) at C3PO.
-- Secure mobile bank transaction authorization App at CaixaBank.
-- Technical product design for a Forensics-readiness tool at CaixaBank.
+- Secure mobile bank transaction authorization App for CaixaBank.
+- Technical product design for a Forensics-readiness tool for CaixaBank.
 - Dev & design of security-as-a-service middleware for AdES qualified s-signatures at Alliaria & WiseKey.
 - Dev & PKI operations design for webtrust CA at Firmaprofesional.
 - Dev for Enterprise Single Sign On solution at PasswordBank.
