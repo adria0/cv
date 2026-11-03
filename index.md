@@ -50,6 +50,7 @@ layout: default
 **Contact**
 
 - Twitter: @adria0
+- LinkedIn: [adria-massanet](https://www.linkedin.com/in/adria-massanet)
 - Secure scuttlebutt: `@ZFWw+UclcUgYi081/C8lhgH+KQ9s7YJRoOYGnzxW/JQ=.ed25519`
 - Email: adriamassanet@proton.me
 
