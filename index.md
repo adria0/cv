@@ -52,6 +52,24 @@ layout: default
 
 - Twitter: @adria0
 - LinkedIn: [adria-massanet](https://www.linkedin.com/in/adria-massanet)
-- Secure scuttlebutt: `@ZFWw+UclcUgYi081/C8lhgH+KQ9s7YJRoOYGnzxW/JQ=.ed25519`
 - Email: adriamassanet@proton.me
 
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEaXmPNxYJKwYBBAHaRw8BAQdA/i87w3JHgmNEg7R6c2sTrGh5PoNfdDNE
+eJj6IZPQUMHNMWFkcmlhbWFzc2FuZXRAcHJvdG9uLm1lIDxhZHJpYW1hc3Nh
+bmV0QHByb3Rvbi5tZT7CwBEEExYKAIMFgml5jzcDCwkHCRDlqWw45PKlLUUU
+AAAAAAAcACBzYWx0QG5vdGF0aW9ucy5vcGVucGdwanMub3JnelgGNOWDhR2J
+2CglfUeEBjrCRrmC9v775mCfvyRSYNYDFQoIBBYAAgECGQECmwMCHgEWIQRJ
+6CElbayngv7rDoDlqWw45PKlLQAAKW0BAPzv69hK1Lupu/pRSOCk6pkG0ZT2
+bqIFGa7LD8U80aU6AQDrdBDxgnotChwm7kRN898gEvcKd8QN15pKIfWol8+4
+C844BGl5jzcSCisGAQQBl1UBBQEBB0CZp78LzvCf6IrpVCRPhpMXhuCgmhn9
+HexZyuilUgigeQMBCAfCvgQYFgoAcAWCaXmPNwkQ5alsOOTypS1FFAAAAAAA
+HAAgc2FsdEBub3RhdGlvbnMub3BlbnBncGpzLm9yZ1s0M4p5vM4ec1pqC/Lg
+UV6//A3MnqWCfSfHg7pg8bvvApsMFiEESeghJW2sp4L+6w6A5alsOOTypS0A
+AOVxAP49iCKSFgdVg5BF/a+9H5+Zy/KS1FT9SLb+YaHNn+L1kQD9F+2GGQPq
+QUn/gOAxAYYpcLbuEIXHPjzJTTmezgILVAs=
+=Y3z+
+-----END PGP PUBLIC KEY BLOCK-----
+```
