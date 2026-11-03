@@ -8,16 +8,17 @@ layout: default
 
 **Decentralized security-related-works**
 
-- ZK Research engineer in [Ethereum Foundation](https://ethereum.org/en/foundation/) working in the [zkEVM](https://github.com/appliedzkp/zkevm-circuits), [Halo2](https://github.com/privacy-ethereum/halo2) and [Post](https://ethresear.ch/t/post-quantum-txs-in-the-verge/21763) [-quantum](https://pse.dev/blog/towards_a_quantum-safe_p2p_for_ethereum)  ethereum explorations 
+- ZK Research engineer in [Ethereum Foundation](https://ethereum.org/en/foundation/) working in the [zkEVM](https://github.com/appliedzkp/zkevm-circuits), [Halo2](https://github.com/privacy-ethereum/halo2) and [Post](https://ethresear.ch/t/post-quantum-txs-in-the-verge/21763) [-quantum](https://pse.dev/blog/towards_a_quantum-safe_p2p_for_ethereum)  ethereum explorations (rust) 
 - ZK Research engineer in [Hermez](https://hermez.io/) & [Vocdoni](https://aragon.org/vocdoni): solidity, go, rust, eg:
   - [Za!](https://github.com/adria0/za) is an experimental port of the circom [zk-SNARK](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof) compiler with embedded bellman-bn128 prover (rust)
   - [Voting rollup](https://github.com/vocdoni/voterollup) a simple zk-rollup for voting using storage proofs 
   - [Halo2 anonymizer circuit](https://github.com/adria0/halo2-franchise-proof) 
-- Core ethereum developer ([parity/openethereum](https://github.com/openethereum) in [Gnosis](https://gnosis.io))
+- Core ethereum developer ([parity/openethereum](https://github.com/openethereum) in [Gnosis](https://gnosis.io)) (rust)
 - Helping Polygon migration of [Agglayer](https://www.agglayer.dev/) go to rust.
 - Audits: [AragonOS](https://wiki.aragon.org/association/security/audits/audit_whg_updated_aragonOS-Apps.pdf) and [MakerDAO](https://makerdao.com/saiCodeReview/SAI%20Coin%20Code%20Review_v1_3.pdf), circuits & smartcontract code reviews for the [Hermez](https://hermez.io/) Rollup. Also zk circuits review for [Axiom](https://www.axiom.xyz/), Status, Streamr, STOX, Sharpe Capital, OilCoin, Dragoneremum, FortKnoxter, Lamden, ZeroCarbonProject, ZMine, ZeusShieldCoin and others
 - Member of the [White Hat Group](https://www.reddit.com/r/ethereum/comments/6povrc/the_whg_has_returned_95_of_the_funds_and_now_hold/)
 - [Giveth](https://giveth.io) contributor.
+- EthSecurity badge from [TheDAO](https://thedao.fund/ethsecurity-badges/)
 
 **Personal/playground projects**
 
